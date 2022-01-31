@@ -6,7 +6,7 @@ import Layout from '../components/layout'
 const ContactMe =    () => {
   return (
     <Layout pageTitle="Contact Me">
-      <p>You cannot contact me. Communication is impossible. The void between us is too big. We are born alone and we die alone.</p>
+      <p>You cannot contact me. Communication is impossible. The void between us is too big. We are born alone and we die alone. Another change.</p>
     </Layout>
   )
 }
